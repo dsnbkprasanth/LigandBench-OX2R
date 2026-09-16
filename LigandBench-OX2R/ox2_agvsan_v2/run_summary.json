@@ -1,0 +1,41 @@
+{
+  "best_model": [
+    "ECFP4+RDKit",
+    "LightGBM"
+  ],
+  "split_report": {
+    "n_dev": 5126,
+    "n_test": 1289,
+    "n_dev_scaffolds": 1624,
+    "n_test_scaffolds": 432,
+    "scaffold_overlap": 0,
+    "dev_active_fraction": 0.12368318376902068,
+    "test_active_fraction": 0.08766485647788984
+  },
+  "label_summary": {
+    "n": 6583,
+    "n_active": 915,
+    "n_inactive": 5668,
+    "n_ambiguous": 0,
+    "active_fraction": 0.13899437946225127
+  },
+  "curation_summary": {
+    "n": 6415,
+    "n_active": 747,
+    "n_inactive": 5668,
+    "active_fraction": 0.11644583008573656
+  },
+  "y_randomization": {
+    "real_auc": 0.9997359483807174,
+    "permuted_mean": 0.502540013300898,
+    "p_value": 0.047619047619047616,
+    "n_permutations": 20
+  },
+  "applicability_domain": {
+    "n_test": 1289,
+    "mean_max_similarity": 0.7507163425648516,
+    "median_max_similarity": 0.7575757575757576,
+    "fraction_in_domain": 0.9868114817688131,
+    "threshold": 0.3
+  }
+}
