@@ -1,0 +1,11 @@
+{
+  "n_curated": 501,
+  "n_agonist": 271,
+  "n_antagonist": 230,
+  "best": [
+    "ECFP4+RDKit",
+    "RF+SMOTE"
+  ],
+  "OOF_MCC": 0.95,
+  "Test_MCC": 0.961
+}

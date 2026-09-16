@@ -1,0 +1,14 @@
+# Exact software versions reported for the manuscript reproducibility environment.
+# Python: 3.11.15
+streamlit==1.45.1
+rdkit==2026.03.5
+scikit-learn==1.8.0
+xgboost==3.2.0
+lightgbm==4.7.0
+shap==0.51.0
+imbalanced-learn==0.14.2
+pandas==3.0.2
+numpy==2.4.4
+matplotlib==3.10.8
+requests==2.32.5
+urllib3==2.6.0
